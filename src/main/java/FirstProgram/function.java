@@ -10,7 +10,7 @@ public class function {
 
         firstprogram.ersa("lina");
         firstprogram.ersa("trisna");
-        firstprogram.ersa("wati");
+
         tambah(x,y);
         tambah(y, z);
         tambah(z, x);
